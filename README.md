@@ -1,19 +1,11 @@
-# Phase 1 Project Description
+# Box Office Trends Analysis: Insights for Microsoft's New Movie Studio project
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Author: [***Ian Tulienge***](#Ian-Tulienge)
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/awesome.gif)
+## Overview
 
+Microsoft is entering the highly competitive movie industry with the goal of producing successful films that generate revenue. However, as a newcomer to the industry, they lack experience and understanding of the factors that contribute to a movie's success. Box office revenue, critical acclaim, and audience reception are key performance metrics, with movie genres playing a significant role in determining success. This project aims to analyze the performance of different movie genres, identify trends and patterns, and provide actionable insights for Microsoft's new movie studio to inform their decisions when creating new films. By understanding the context and factors influencing the movie industry, the project can help Microsoft create successful movies and achieve their goals.
 Now you will put your new skills to use with a large end-of-Phase project!
-
-In this project description, we will cover:
-
-* [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
-* [***Grading:***](#grading) how your project will be scored
-* [***Getting Started:***](#getting-started) guidance for how to begin your first project
-
-## Project Overview
 
 For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
 
@@ -27,17 +19,21 @@ In the folder `zippedData` are movie datasets from:
 
 * [Box Office Mojo](https://www.boxofficemojo.com/)
 * [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
 
 Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or `pd.read_csv`, while the data from IMDB is located in a SQLite database.
 
 ![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
 
-Note that the above diagram shows ONLY the IMDB data. You will need to look carefully at the features to figure out how the IMDB data relates to the other provided data files.
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind, we recommend you use only the following data files:
+# Methods
+
+This project uses descriptive analysis,correlation matrix to check for relationship between the variables. This provides a useful overview of insights and outcomes to identify resource needs.
+
+# Results
+
+The best genre in top ten genres by average number of votes is Adventure,Drama,Sci-Fi followed by Adventure,Mystery,Sci-Fi wherouse the least watched genre in top ten is Mystery,Thriller and Action,Sci-Fi
+ 
+ 
 
 * `im.db.zip`
   * Zipped SQLite database (you will need to unzip then query using SQLite)
