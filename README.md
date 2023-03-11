@@ -25,6 +25,7 @@ Because it was collected from various locations, the different files have differ
 ![movie data erd](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/movie_data_erd.jpeg)
 
 
+
 # Methods
 
 This project uses descriptive analysis,correlation matrix to check for relationship between the variables. This provides a useful overview of insights and outcomes to identify resource needs.
@@ -33,7 +34,7 @@ This project uses descriptive analysis,correlation matrix to check for relations
 
 The best genre in top ten genres by average number of votes is Adventure,Drama,Sci-Fi followed by Adventure,Mystery,Sci-Fi wherouse the least watched genre in top ten is Mystery,Thriller and Action,Sci-Fi
  
- ![top1o genres](https://raw.github.com/Lawez/project-1phase/tree/master/images/top1o genres.png)
+ ![top_ten_genres](https://github.com/Lawez/project-1phase/tree/master/images/top_ten_genres.png)
 
 
 * `im.db.zip`
