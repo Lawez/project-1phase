@@ -33,7 +33,8 @@ This project uses descriptive analysis,correlation matrix to check for relations
 
 The best genre in top ten genres by average number of votes is Adventure,Drama,Sci-Fi followed by Adventure,Mystery,Sci-Fi wherouse the least watched genre in top ten is Mystery,Thriller and Action,Sci-Fi
  
- 
+ ![top 1o genres](https://github.com/Lawez/project-1phase/tree/master/images/top1o genres.png)
+
 
 * `im.db.zip`
   * Zipped SQLite database (you will need to unzip then query using SQLite)
