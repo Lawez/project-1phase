@@ -128,11 +128,26 @@ Overall, it is important to consider the genre, ratings, and studio when plannin
 
 # For More Information
 
-
-
+See the full analysis in the [Jupyter Notebook](./movie_data analysis-checkpoint.ipynb) or review this [presentation](./presentation content/slide presentation.pdf).
 
 
 
 
 # Repository Structure
 
+```
+ - project
+    |── .ipynb_checkpoints
+    |── data
+    |   ├── movie_data analysis-checkpoint.ipynb
+    |── images   
+    |── presentation content
+    |── .canvas
+    |── .gitignore
+    |── CONTRIBUTING.md
+    |── LICENSE.md
+    ├── README.md
+    └── movie_data analysis-checkpoint.ipynb
+    
+   
+```
