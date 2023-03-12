@@ -68,10 +68,14 @@ The chart indicates that there is a weak positive correlation between the two va
 
 
 
+We can see that the majority of movies have a domestic gross revenue of less than $50 million, with a long tail of higher grossing movies. The domestic gross also tends to increase. However, it is also evident that there are many movies with low budgets that have performed well in terms of domestic gross.
+
+
 
 ![domestic_gross_on_movie](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/domestic_gross_on_movie.png)
 
 
 
 
+![correlation_matrix](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/correlation_matrix.png)
 
