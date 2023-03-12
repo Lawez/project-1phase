@@ -69,3 +69,10 @@ The chart indicates that there is a weak positive correlation between the two va
 
 
 
+![domestic_gross_on_movie](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/domestic_gross_on_movie.png)
+
+
+
+
+![domestic_gross_on_movie](https://github.com/Lawez/project-1phase/tree/master/images/domestic_gross_on_movie.png)
+
