@@ -46,7 +46,7 @@ The chart indicates that the studio with the most movies currently in production
 
 The chart indicates that the studio with the highest domestic gross revenue is BV, followed by Universal Pictures, Fox,Warner Bros,Paramount Pictures, Sony,Columbia Pictures,  DreamWorks SKG, Miramax Films, and Lionsgate. This information can be useful for understanding the financial performance of different movie studios and their relative success in the movie industry. It can also provide insights into which studios may have more financial resources and which may be more profitable to work with as a filmmaker or investor.
 
-![Domestic_gross_by_studio](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/Domestic_studio_by_studio.png)
+![Domestic_gross_by_studio](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/Domestic_gross_by_studio.png)
 
 
 
@@ -64,7 +64,7 @@ The chart indicates that there is a weak positive correlation between the two va
 
 The chart indicates that there is a weak positive correlation between the two variables, with higher-rated movies generally having higher domestic gross revenue. However, there are also many movies with a high domestic gross revenue but a lower rating, indicating that financial success is not always directly related to critical reception or quality. This information can be useful for understanding the relationship between movie ratings and financial performance and for identifying which movies may be more likely to succeed in terms of box office revenue and overall reception.
 
-![averagerating_on_domestic_gross](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/averagerating_domestic_gross.png)
+![averagerating_on_domestic_gross](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/averagerating_on_domestic_gross.png)
 
 
 
@@ -76,6 +76,22 @@ We can see that the majority of movies have a domestic gross revenue of less tha
 
 
 
+The darker the shade of blue, the stronger the positive correlation between the two variables, while the darker the shade of red, the stronger the negative correlation between the two variables. A value of 1 indicates a perfect positive correlation, a value of -1 indicates a perfect negative correlation, and a value of 0 indicates no correlation between the two variables.
+
+**Based on the correlation matrix, we can make the following observations:**
+
+- Domestic gross has a strong positive correlation with the number of votes (0.664), indicating that movies with more votes tend to have higher domestic gross.
+
+- Domestic gross also has a moderate positive correlation with average rating (0.119) and runtime minutes (0.126), indicating that movies with higher ratings and longer runtime tend to have higher domestic gross.
+
+- Year has a weak positive correlation with start year (0.808) and a weak negative correlation with number of votes (-0.122), indicating that older movies tend to have fewer votes than newer movies.
+
+- Average rating has a moderate positive correlation with the number of votes (0.278), indicating that movies with higher ratings tend to have more votes.
+
+- Runtime minutes has a moderate positive correlation with the number of votes (0.266), indicating that movies with longer runtime tend to have more votes.
 
 ![correlation_matrix](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/correlation_matrix.png)
 
+
+
+![averagerating_by_genre](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/averagerating_by_genre.png)
