@@ -102,7 +102,7 @@ Based on the chart, it seems like documentaries, music, and biography films have
 
 # Recommendations:
 
-Based on the analysis:
+**Based on the analysis:**
 
 - It is recommended that movie producers focus on producing movies in the Drama, Adventure and Sci-Fi genres.
 
@@ -116,15 +116,23 @@ Overall, it is important to consider the genre, ratings, and studio when plannin
 
 # Next step:
 
-The movie industry is constantly evolving, and Microsoft's new movie studio should remain flexible and adaptable to changing conditions and consumer preferences to stay competitive in the market. Further research and analysis could include exploring the impact of social media and influencer marketing on movie success and analyzing the impact of streaming services on the box office.
+- The movie industry is constantly evolving, and Microsoft's new movie studio should remain flexible and adaptable to changing conditions and consumer preferences to stay competitive in the market. Further research and analysis could include exploring the impact of social media and influencer marketing on movie success and analyzing the impact of streaming services on the box office.
 
-Conduct further analysis on the top-performing genres and studios: Explore the top-performing genres and studios in more detail to gain a deeper understanding of their success factors and identify any common trends or characteristics that contribute to their success.
+- Conduct further analysis on the top-performing genres and studios: Explore the top-performing genres and studios in more detail to gain a deeper understanding of their success factors and identify any common trends or characteristics that contribute to their success.
 
-Analyze the impact of release dates and marketing strategies: Consider exploring the impact of release dates and marketing strategies on movie success to help identify optimal timing and promotional efforts for new movie releases.
+- Analyze the impact of release dates and marketing strategies: Consider exploring the impact of release dates and marketing strategies on movie success to help identify optimal timing and promotional efforts for new movie releases.
 
-Develop predictive models: Use machine learning algorithms to build predictive models that can forecast the potential success of a movie based on various factors such as genre, studio, rating, and release date.
+- Develop predictive models: Use machine learning algorithms to build predictive models that can forecast the potential success of a movie based on various factors such as genre, studio, rating, and release date.
 
-Collaborate with industry experts: Work with industry experts such as producers, directors, or marketing professionals to gain additional insights and perspectives on the movie industry and potential strategies for success.
+- Collaborate with industry experts: Work with industry experts such as producers, directors, or marketing professionals to gain additional insights and perspectives on the movie industry and potential strategies for success.
+
+# For More Information
 
 
+
+
+
+
+
+# Repository Structure
 
