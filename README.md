@@ -80,7 +80,7 @@ The darker the shade of blue, the stronger the positive correlation between the 
 
 **Based on the correlation matrix, we can make the following observations:**
 
-- Domestic gross has a strong positive correlation with the number of votes (0.664), indicating that movies with more votes tend to have higher domestic gross.
+* Domestic gross has a strong positive correlation with the number of votes (0.664), indicating that movies with more votes tend to have higher domestic gross.
 
 - Domestic gross also has a moderate positive correlation with average rating (0.119) and runtime minutes (0.126), indicating that movies with higher ratings and longer runtime tend to have higher domestic gross.
 
@@ -94,4 +94,37 @@ The darker the shade of blue, the stronger the positive correlation between the 
 
 
 
+Based on the chart, it seems like documentaries, music, and biography films have the highest average ratings among all genres, while horror and action films have the lowest. This could suggest that audiences are generally more critical of horror and action films, while they are more appreciative of documentaries, music, and biography films. However, it is important to note that this is just an average and there are many individual films within each genre that may not fit this trend. However, there is a lot of variability in the data, so again it is difficult to draw strong conclusions from this plot.
+
 ![averagerating_by_genre](https://raw.githubusercontent.com/Lawez/project-1phase/master/images/averagerating_by_genre.png)
+
+
+
+# Recommendations:
+
+Based on the analysis:
+
+- It is recommended that movie producers focus on producing movies in the Drama, Adventure and Sci-Fi genres.
+
+- Work with successful studios such as BV, Universal, Fox and Warner Bros(WB), and aim for a runtime of around 120 minutes.
+
+- Consider increasing promotion and advertising efforts for movies with high vote counts to increase the popularity of the movie among audiences.
+
+- Aim to produce movies with an average rating between 6-7, which appears to be the most common rating value in the dataset.
+
+Overall, it is important to consider the genre, ratings, and studio when planning a movie production or distribution strategy. However, it is important to note that success is not guaranteed and there are other factors that can influence a movie's success, such as marketing, timing of release, and competition in the market.
+
+# Next step:
+
+The movie industry is constantly evolving, and Microsoft's new movie studio should remain flexible and adaptable to changing conditions and consumer preferences to stay competitive in the market. Further research and analysis could include exploring the impact of social media and influencer marketing on movie success and analyzing the impact of streaming services on the box office.
+
+Conduct further analysis on the top-performing genres and studios: Explore the top-performing genres and studios in more detail to gain a deeper understanding of their success factors and identify any common trends or characteristics that contribute to their success.
+
+Analyze the impact of release dates and marketing strategies: Consider exploring the impact of release dates and marketing strategies on movie success to help identify optimal timing and promotional efforts for new movie releases.
+
+Develop predictive models: Use machine learning algorithms to build predictive models that can forecast the potential success of a movie based on various factors such as genre, studio, rating, and release date.
+
+Collaborate with industry experts: Work with industry experts such as producers, directors, or marketing professionals to gain additional insights and perspectives on the movie industry and potential strategies for success.
+
+
+
