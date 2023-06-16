@@ -2,7 +2,7 @@
 
 Author: [***Ian Tulienge***](#Ian-Tulienge)
 
-![moviee.pmg](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/moviee.png)
+![moviee.png](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-4/master/moviee.png)
 
 ## Overview
 
