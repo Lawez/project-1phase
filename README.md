@@ -2,7 +2,7 @@
 
 Author: [***Ian Tulienge***](#Ian-Tulienge)
 
-![moviee.jpg](https://raw.githubusercontent.com/Lawez/project-1phase/master/moviee.jpg) ![movie.jpg](https://raw.githubusercontent.com/Lawez/project-1phase/master/movie.jpg)
+      ![moviee.jpg](https://raw.githubusercontent.com/Lawez/project-1phase/master/moviee.jpg) ![movie.jpg](https://raw.githubusercontent.com/Lawez/project-1phase/master/movie.jpg)
 ## Overview
 
 Microsoft is entering the highly competitive movie industry with the goal of producing successful films that generate revenue. However, as a newcomer to the industry, they lack experience and understanding of the factors that contribute to a movie's success. Box office revenue, critical acclaim, and audience reception are key performance metrics, with movie genres playing a significant role in determining success. This project aims to analyze the performance of different movie genres, identify trends and patterns, and provide actionable insights for Microsoft's new movie studio to inform their decisions when creating new films. By understanding the context and factors influencing the movie industry, the project can help Microsoft create successful movies and achieve their goals.
